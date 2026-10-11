@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./banner.png" alt="NoPlanCoders" width="100%">
+  <img src="./banner.webp" alt="NoPlanCoders" width="100%">
 </p>
